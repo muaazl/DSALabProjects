@@ -34,6 +34,6 @@ public class Link {
     }
     
     public void displayBook() {
-        System.out.println("ISBN: " + ISBN + ", Title: " + title + ", Cover Photo: " + coverPhoto);
+        System.out.println("ISBN: " + ISBN + ", Title: " + title);
     }
 }
