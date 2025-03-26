@@ -45,9 +45,11 @@ public class MainUI extends javax.swing.JFrame {
         btnFind = new javax.swing.JButton();
         btnDelete = new javax.swing.JButton();
         lblImage = new javax.swing.JLabel();
-        btnView = new javax.swing.JButton();
+        jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        jPanel1.setBackground(new java.awt.Color(204, 255, 204));
 
         jLabel1.setText("ISBN");
 
@@ -83,58 +85,59 @@ public class MainUI extends javax.swing.JFrame {
             }
         });
 
-        lblImage.setText("jLabel4");
-
-        btnView.setText("View Books");
-        btnView.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btnViewActionPerformed(evt);
-            }
-        });
+        jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
+        jLabel4.setText("Catalog App");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(84, 84, 84)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                        .addComponent(jLabel3)
-                        .addGroup(jPanel1Layout.createSequentialGroup()
-                            .addComponent(jLabel1)
-                            .addGap(83, 83, 83)
-                            .addComponent(txtISBN, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGroup(jPanel1Layout.createSequentialGroup()
-                            .addComponent(jLabel2)
-                            .addGap(56, 56, 56)
-                            .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                .addComponent(txtTitle, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGroup(jPanel1Layout.createSequentialGroup()
-                                    .addComponent(txtCoverPhoto, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addGap(18, 18, 18)
-                                    .addComponent(btnBrowse))))
-                        .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                            .addComponent(imageChooser, javax.swing.GroupLayout.PREFERRED_SIZE, 211, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addGap(90, 90, 90)))
                     .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(btnAdd)
-                        .addGap(18, 18, 18)
-                        .addComponent(btnFind)
-                        .addGap(18, 18, 18)
-                        .addComponent(btnView)
-                        .addGap(18, 18, 18)
-                        .addComponent(btnDelete)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 72, Short.MAX_VALUE)
+                        .addGap(84, 84, 84)
+                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addComponent(jLabel3)
+                                .addGroup(jPanel1Layout.createSequentialGroup()
+                                    .addComponent(jLabel2)
+                                    .addGap(56, 56, 56)
+                                    .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                        .addComponent(txtTitle, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addGroup(jPanel1Layout.createSequentialGroup()
+                                            .addComponent(txtCoverPhoto, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                            .addGap(18, 18, 18)
+                                            .addComponent(btnBrowse))))
+                                .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                                    .addComponent(imageChooser, javax.swing.GroupLayout.PREFERRED_SIZE, 211, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                    .addGap(90, 90, 90))
+                                .addGroup(jPanel1Layout.createSequentialGroup()
+                                    .addComponent(jLabel1)
+                                    .addGap(83, 83, 83)
+                                    .addComponent(txtISBN, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addGroup(jPanel1Layout.createSequentialGroup()
+                                .addGap(71, 71, 71)
+                                .addComponent(btnAdd)
+                                .addGap(18, 18, 18)
+                                .addComponent(btnFind)
+                                .addGap(18, 18, 18)
+                                .addComponent(btnDelete)))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 76, Short.MAX_VALUE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jLabel4)
+                        .addGap(109, 109, 109)))
                 .addComponent(lblImage, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(41, 41, 41))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(29, 29, 29)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(94, 94, 94)
+                        .addComponent(jLabel4)
+                        .addGap(49, 49, 49)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jLabel1)
                             .addComponent(txtISBN, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -153,12 +156,9 @@ public class MainUI extends javax.swing.JFrame {
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(btnAdd)
                             .addComponent(btnFind)
-                            .addComponent(btnDelete)
-                            .addComponent(btnView)))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(29, 29, 29)
-                        .addComponent(lblImage, javax.swing.GroupLayout.PREFERRED_SIZE, 296, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(31, Short.MAX_VALUE))
+                            .addComponent(btnDelete)))
+                    .addComponent(lblImage, javax.swing.GroupLayout.PREFERRED_SIZE, 296, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(28, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -223,13 +223,8 @@ public class MainUI extends javax.swing.JFrame {
         } else {
             JOptionPane.showMessageDialog(this, "Book not found!");
         }
+        lblImage.setText("");
     }//GEN-LAST:event_btnFindActionPerformed
-
-    private void btnViewActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnViewActionPerformed
-        // TODO add your handling code here:
-        Link current = bookList.getFirst();
-        
-    }//GEN-LAST:event_btnViewActionPerformed
 
     private void btnDeleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDeleteActionPerformed
         // TODO add your handling code here:
@@ -283,11 +278,11 @@ public class MainUI extends javax.swing.JFrame {
     private javax.swing.JButton btnBrowse;
     private javax.swing.JButton btnDelete;
     private javax.swing.JButton btnFind;
-    private javax.swing.JButton btnView;
     private javax.swing.JFileChooser imageChooser;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JLabel lblImage;
     private javax.swing.JTextField txtCoverPhoto;
