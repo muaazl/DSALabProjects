@@ -42,9 +42,9 @@ public class LinkList {
     
     public void deleteFirst() {
         if (isEmpty()) {
-            first = first.next;
-        } else {
             System.out.println("List is empty!");
+        } else {
+            first = first.next;
         }
     }
     
