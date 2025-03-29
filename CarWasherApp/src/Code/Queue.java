@@ -12,6 +12,26 @@ public class Queue {
     private LinkedList linkedQueue;
     
     public Queue() {
-        
+        linkedQueue = new LinkedList();
+    }
+    
+    public boolean isEmpty() {
+        return (linkedQueue.isEmpty());
+    }
+    
+    public void enqueue(int f, String s) {
+        linkedQueue.insertLast(f,s);
+    }
+    
+    public Link dequeue() {
+        if (linkedQueue.isEmpty()) {
+            return null;
+        } else {
+            return linkedQueue.deleteFirst();
+        }
+    }
+    
+    public Link peek() {
+        return linkedQueue.getFirst();
     }
 }
