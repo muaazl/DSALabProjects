@@ -1,0 +1,58 @@
+Alt+F-File menu options in current program.
+Alt+E-Edit options in current program.
+Alt+Tab-Switch between open programs.
+F1-View help information (F1 is used by almost every Windows program to display help).
+F2-Rename a selected file.
+F5-Refresh the current program window.
+Ctrl+N-Create a new or blank document in some software, or open a new tab in most Internet browsers.
+Ctrl+O-Open a file in the current software.
+Ctrl+A-Select all text.
+Ctrl+B-Change selected text to be bold.
+Ctrl+I-Change selected text to be in italics.
+Ctrl+U-Change selected text to be underlined.
+Ctrl+F-Open find window for current document or window.
+Ctrl+S-Save current document file.
+Ctrl+X-Cut selected item.
+Shift+Del-Cut selected item.
+Ctrl+C-Copy selected item.
+Ctrl+Ins-Copy selected item
+Ctrl+V-Paste
+Shift+Ins-Paste
+Ctrl+Y-Redo last action.
+Ctrl+Z-Undo last action.
+Ctrl+K-Insert hyperlink for selected text.
+Ctrl+P-Print the current page or document.
+Home-Goes to beginning of current line.
+Ctrl+Home-Goes to beginning of document.
+End-Goes to end of current line.
+Ctrl+End-Goes to end of document.
+Shift+Home-Highlights from current position to beginning of line.
+Shift+End-Highlights from current position to end of line.
+Ctrl+Left arrow-Moves one word to the left at a time.
+Ctrl+Right arrow-Moves one word to the right at a time.
+Ctrl+Esc-Opens the Start menu.
+Ctrl+Shift+Esc-Opens Windows Task Manager.
+Alt+F4-Close the currently active program.
+Alt+Enter-Open the properties for the selected item (file, folder, shortcut, etc.).
+Alt+0224-�
+Alt+0232-�
+Alt+0236-�
+Alt+0242-�
+Alt+0241-�
+Alt+0228-�
+Alt+0246-�
+Alt+0252-�
+Alt+0248-�
+Alt+0223-�
+Alt+0198-�
+Alt+0231-�
+Alt+0191-�
+Alt+0176-�  (degree symbol)
+Alt+0177-�  (plus/minus symbol)
+Alt+0153-�
+Alt+0169-�
+Alt+0174-�
+Alt+0128-�  (Euro currency)
+Alt+0162-�  (Cent symbol)
+Alt+0163-�  (British Pound currency)
+Alt+0165-�  (Japanese Yen currency)

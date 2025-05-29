@@ -1,0 +1,118 @@
+H	,	Hydrogen	,	The Greek 'hydro' and 'genes' meaning water-forming	,	1
+Es	,	Einsteinium	,	Albert Einstein physicist	,	7
+No	,	Nobelium	,	Alfred Nobel chemist engineer innovator and armaments manufacturer	,	7
+Am	,	Americium	,	Americas the continent where the element was first synthesized	,	7
+Bk	,	Berkelium	,	Berkeley California USA where the element was first synthesized	,	7
+Ce	,	Cerium	,	Ceres the Roman God of agriculture	,	6
+Hf	,	Hafnium	,	Copenhagen Denmark (with the Latin name Hafnia)	,	6
+Ds	,	Darmstadtium	,	Darmstadt Germany where the element was first synthesized	,	7
+Md	,	Mendelevium	,	Dmitri Mendeleyev chemist and inventor	,	7
+Db	,	Dubnium	,	Dubna Russia	,	7
+Te	,	Tellurium	,	Earth the third planet on solar system (with the Latin word tellus)	,	5
+S	,	Sulfur	,	Either from the Sanskrit 'sulvere' or the Latin 'sulfurium' both names for sulfur	,	3
+Mn	,	Manganese	,	Either the Latin 'magnes' meaning magnet or from the black magnesium oxide 'magnesia nigra'	,	4
+Fm	,	Fermium	,	Enrico Fermi physicist	,	7
+Lr	,	Lawrencium	,	Ernest O. Lawrence physicist	,	7
+Rf	,	Rutherfordium	,	Ernest Rutherford chemist and physicist	,	7
+Eu	,	Europium	,	Europe	,	6
+Fr	,	Francium	,	France	,	7
+Ga	,	Gallium	,	France (with the Latin name Gallia)	,	4
+Rn	,	Radon	,	From radium as it was first detected as an emission from radium during radioactive decay	,	6
+Pd	,	Palladium	,	From the asteroid Pallas which had been recently discovered and named at the time	,	5
+Fl	,	Flerovium	,	Georgy Flyorov physicist	,	7
+Ge	,	Germanium	,	Germany (with the Latin name Germania)	,	4
+Sg	,	Seaborgium	,	Glenn T. Seaborg scientist	,	7
+Pa	,	Protactinium	,	Greek 'protos' meaning first as a prefix to the element actinium	,	7
+Hs	,	Hassium	,	Hesse Germany where the element was first synthesized	,	7
+Ir	,	Iridium	,	Iris the Greek goddess of the rainbow	,	6
+Uut	,	Ununtrium	,	IUPAC systematic element name	,	7
+Uup	,	Ununpentium	,	IUPAC systematic element name	,	7
+Uus	,	Ununseptium	,	IUPAC systematic element name	,	7
+Uuo	,	Ununoctium	,	IUPAC systematic element name	,	7
+Gd	,	Gadolinium	,	Johan Gadolin chemist physicist and mineralogist	,	6
+Ta	,	Tantalum	,	King Tantalus father of Niobe from Greek mythology	,	6
+Lv	,	Livermorium	,	Lawrence Livermore National Laboratory which collaborated with JINR on the discovery of the element	,	7
+Mt	,	Meitnerium	,	Lise Meitner physicist	,	7
+Mg	,	Magnesium	,	Magnesia is a district of Eastern Thessaly in Greece	,	3
+Hg	,	Mercury	,	Mercury the first planet in the Solar System	,	6
+Se	,	Selenium	,	Moon (with the Greek name selene)	,	4
+Np	,	Neptunium	,	Neptune the eighth planet in the Solar System	,	7
+Cn	,	Copernicium	,	Nicolaus Copernicus astronomer	,	7
+Bh	,	Bohrium	,	Niels Bohr physicist	,	7
+Nb	,	Niobium	,	Niobe daughter of king Tantalus from Greek mythology	,	5
+Lu	,	Lutetium	,	Paris France (with the Roman name Lutetia)	,	6
+Cm	,	Curium	,	Pierre Curie a physicist and Marie Curie a physicist and chemist	,	7
+Pu	,	Plutonium	,	Pluto a dwarf planet in the Solar System	,	7
+Po	,	Polonium	,	Poland the native country of Marie Curie who first isolated the element	,	6
+Pm	,	Promethium	,	Prometheus of Greek mythology who stole fire from the Gods and gave it to humans	,	6
+Re	,	Rhenium	,	Rhine a river that flows from Grisons in the eastern Swiss Alps to the North Sea coast in the Netherlands	,	6
+Ru	,	Ruthenium	,	Russia (with the Latin name Ruthenia)	,	5
+Sm	,	Samarium	,	Samarskite the name of the mineral from which it was first isolated	,	6
+Sc	,	Scandium	,	Scandinavia (with the Latin name Scandia)	,	4
+Cf	,	Californium	,	State of California USA where the element was first synthesized	,	7
+Ho	,	Holmium	,	Stockholm Sweden (with the Latin name Holmia)	,	6
+Sr	,	Strontium	,	Strontian is a small town in Scotland	,	5
+Pb	,	Lead	,	The Anglo-Saxon lead (plumbum in Latin)	,	6
+Fe	,	Iron	,	The Anglo-Saxon name iren (ferrum in Latin)	,	4
+Ag	,	Silver	,	The Anglo-Saxon name siolfur (argentum in Latin)	,	5
+Au	,	Gold	,	The Anglo-Saxon word gold (aurum in Latin meaning glow of sunrise)	,	6
+Sn	,	Tin	,	The Anglo-Saxon word tin (stannum in Latin meaning hard)	,	5
+B	,	Boron	,	The Arabic 'buraq' which was the name for borax	,	2
+K	,	Potassium	,	The English word potash (kalium in Latin)	,	4
+Na	,	Sodium	,	The English word soda (natrium in Latin)	,	3
+Bi	,	Bismuth	,	The German 'Bisemutum' a corruption of 'Weisse Masse' meaning white mass	,	6
+Co	,	Cobalt	,	The German word 'kobald' meaning goblin	,	4
+Zn	,	Zinc	,	The German 'zinc'which may in turn be derived from the Persian word 'sing' meaning stone	,	4
+Ac	,	Actinium	,	The Greek 'actinos' meaning a ray	,	7
+Sb	,	Antimony	,	The Greek 'anti – monos' meaning not alone (stibium in Latin)	,	5
+Ar	,	Argon	,	The Greek 'argos' meaning idle	,	3
+At	,	Astatine	,	The Greek 'astatos' meaning unstable	,	6
+Ba	,	Barium	,	The Greek 'barys' meaning heavy	,	6
+Br	,	Bromine	,	the Greek 'bromos' meaning stench	,	4
+Cl	,	Chlorine	,	The Greek 'chloros' meaning greenish yellow	,	3
+Cr	,	Chromium	,	The Greek 'chroma' meaning colour	,	4
+Dy	,	Dysprosium	,	The Greek 'dysprositos' meaning hard to get	,	6
+He	,	Helium	,	The Greek 'helios' meaning sun	,	1
+I	,	Iodine	,	The Greek 'iodes' meaning violet	,	5
+Kr	,	Krypton	,	The Greek 'kryptos' meaning hidden	,	4
+La	,	Lanthanum	,	The Greek 'lanthanein' meaning to lie hidden	,	6
+Li	,	Lithium	,	The Greek 'lithos' meaning stone	,	2
+Mo	,	Molybdenum	,	the Greek 'molybdos' meaning lead	,	5
+As	,	Arsenic	,	The Greek name 'arsenikon' for the yellow pigment orpiment	,	4
+Be	,	Beryllium	,	The Greek name for beryl 'beryllo'	,	2
+Nd	,	Neodymium	,	The Greek 'neos didymos' meaning new twin	,	6
+Ne	,	"Neon	"	,	The Greek 'neos' meaning new	,	2
+N	,	Nitrogen	,	The Greek 'nitron' and 'genes' meaning nitre-forming	,	2
+Os	,	Osmium	,	The Greek 'osme' meaning smell	,	6
+O	,	Oxygen	,	The Greek 'oxy' and 'genes' meaning acid-forming	,	2
+P	,	Phosphorus	,	The Greek 'phosphoros' meaning bringer of light	,	3
+Pr	,	Praseodymium	,	The Greek 'prasios didymos' meaning green twin	,	6
+Rh	,	Rhodium	,	The Greek 'rhodon' meaning rose coloured	,	5
+Tc	,	Technetium	,	The Greek 'tekhnetos' meaning artificial	,	5
+Tl	,	Thallium	,	The Greek 'thallos' meaning a green twig	,	6
+Xe	,	Xenon	,	The Greek 'xenos' meaning stranger	,	5
+Cs	,	Caesium	,	The Latin 'caesius' meaning sky blue	,	6
+Ca	,	Calcium	,	The Latin 'calx' meaning lime	,	4
+C	,	Carbon	,	The Latin 'carbo' meaning charcoal	,	2
+F	,	Fluorine	,	The Latin 'fluere' meaning to flow	,	2
+In	,	Indium	,	The Latin 'indicium' meaning violet or indigo	,	5
+Al	,	Aluminium	,	The Latin name for alum 'alumen' meaning bitter salt	,	3
+Cd	,	Cadmium	,	The Latin name for the mineral calmine 'cadmia'	,	5
+Ra	,	Radium	,	The Latin 'radius' meaning ray	,	7
+Rb	,	Rubidium	,	the Latin 'rubidius' meaning deepest red	,	5
+Si	,	Silicon	,	The Latin 'silex' or 'silicis' meaning flint	,	3
+Cu	,	Copper	,	The Old English name coper in turn derived from the Latin 'Cyprium aes' meaning a metal from Cyprus	,	4
+Zr	,	Zirconium	,	The Persian 'zargun' meaning gold coloured	,	5
+Ni	,	Nickel	,	The shortened of the German 'kupfernickel' meaning either devil's copper or St. Nicholas's copper	,	4
+Pt	,	Platinum	,	the Spanish 'platina' meaning little silver	,	6
+W	,	Tungsten	,	The Swedish 'tung sten' meaning heavy stone (W is wolfram the old name of the tungsten mineral wolframite)	,	6
+Th	,	Thorium	,	Thor the Scandinavian god of thunder	,	7
+Tm	,	Thulium	,	Thule the ancient name for Scandinavia	,	6
+Ti	,	Titanium	,	Titansc the sons of the Earth goddess of Greek mythology	,	4
+U	,	Uranium	,	Uranus the seventh planet in the Solar System	,	7
+V	,	Vanadium	,	Vanadis an old Norse name for the Scandinavian goddess Freyja	,	4
+Rg	,	Roentgenium	,	Wilhelm Conrad Rontgen physicist	,	7
+Y	,	Yttrium	,	Ytter by Sweden	,	5
+Tb	,	Terbium	,	Ytter by Sweden	,	6
+Er	,	Erbium	,	Ytter by Sweden	,	6
+Yb	,	Ytterbium	,	Ytter by Sweden	,	6
